@@ -1,2 +1,3 @@
 I'm writing something here.
 Generate a conflict from remote repo
+Generating a conflict from local repo
